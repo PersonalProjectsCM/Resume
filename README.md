@@ -29,15 +29,15 @@ This project serves as a modern portfolio, combining simplicity, readability, an
    git clone https://github.com/PersonalProjectsCM/Resume.git
    
 
-1.1. **Navigate to the project folder**
-           
+2. **Navigate to the project folder**
+   ```bash           
       cd resume-project
 
-1.2. **Install dependencies**
+4. **Install dependencies**
            
         npm install
 
-1.3. **Run locally**
+5. **Run locally**
             
         npm run dev
 
