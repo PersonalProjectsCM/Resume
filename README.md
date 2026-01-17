@@ -30,18 +30,15 @@ This project serves as a modern portfolio, combining simplicity, readability, an
    
 
 1.1. **Navigate to the project folder**
-      ```bash
-      
+           
       cd resume-project
 
 1.2. **Install dependencies**
-      ```bash
-      
+           
         npm install
 
 1.3. **Run locally**
-      ```bash
-      
+            
         npm run dev
 
 🛠️ Technologies
