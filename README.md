@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Hoja de vida
 
@@ -42,3 +43,62 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+=======
+# Resume
+# 📄 Digital Résumé Project
+
+A refined and professional digital résumé designed to present personal information, academic background, work experience, projects, and contact details in a clear and elegant format.  
+This project serves as a modern portfolio, combining simplicity, readability, and visual appeal.
+
+---
+
+## ✨ Key Sections
+
+- **About Me** – Concise introduction highlighting professional identity and values.  
+- **Education** – Academic achievements, institutions, and relevant coursework.  
+- **My Knowledge** – Career history with responsibilities, accomplishments, and impact.  
+- **Projects** – Selected works showcasing technical expertise and creativity.  
+- **Skills** – Technical and interpersonal skills aligned with professional goals.  
+- **Contact** – Direct links for networking and collaboration.  
+
+---
+
+## 📂 Project Structure
+
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/PersonalProjectsCM/Resume.git
+   
+
+2. **Navigate to the project folder**
+   ```bash           
+      cd resume-project
+
+4. **Install dependencies**
+           
+        npm install
+
+5. **Run locally**
+            
+        npm run dev
+
+🛠️ Technologies
+- Frontend: React / Next.js
+- Styling: TailwindCSS / CSS Modules
+- Data: JSON / Markdown
+- Deployment: Vercel, Netlify, or GitHub Pages
+
+
+
+📬 Contact
+For inquiries or collaborations:
+- Email: cmejia8989@gmail.com
+- LinkedIn: linkedin.com/in/cristian-mejia-364404152
+- GitHub: github.com/camilo899
+
+>>>>>>> d0f18097372c01ccee854a633e84be28b47ccb27
