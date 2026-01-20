@@ -1,3 +1,4 @@
+// SocialLinks.tsx
 import React from 'react';
 import { FaGithub, FaLinkedin, FaYoutube, FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa';
 
