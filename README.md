@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-
-# Hoja de vida
+# Resume
 
 ## Explanation
 - This is a project about designing my CV, using digital tools such as: NextJS, TailwindCSS, TypeScript, Icons, etc. This app has a vertical menu on the left side, where you set some personal information. The central content has data regarding my studies, my projects and relevant experience with the systems engineering career. Finally, on the right side links were established to some social networks where you can research more about the academic projects I have worked on.
@@ -100,5 +98,3 @@ For inquiries or collaborations:
 - Email: cmejia8989@gmail.com
 - LinkedIn: linkedin.com/in/cristian-mejia-364404152
 - GitHub: github.com/camilo899
-
->>>>>>> d0f18097372c01ccee854a633e84be28b47ccb27
